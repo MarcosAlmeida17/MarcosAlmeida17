@@ -1,6 +1,8 @@
 ## 👋 Olá, eu sou o Marcos Almeida  
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) - (1/6)**
+<img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/b6c278ef-836b-4a96-a2f9-1181000234a8" />
+
 💡 Apaixonado por **Ciência de Dados**, **Análise de Dados** e **Tecnologia**  
 📍 Itu/SP Brasil  
 
@@ -46,8 +48,8 @@ Atuar como **estagiário na área de Dados**, aplicando meus conhecimentos em **
 
 ## 📫 Contato
 
-📧 **E-mail:** [adicione seu e-mail aqui]  
-💼 **LinkedIn:** [adicione seu perfil do LinkedIn aqui]  
+📧 **E-mail:** marcosalmeida7786@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/marcos-almeida-0190a2266/
 🐙 **GitHub:** [github.com/MarcosAlmeida17](https://github.com/MarcosAlmeida17)
 
 ---
