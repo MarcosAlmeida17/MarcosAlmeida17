@@ -18,7 +18,10 @@ Busco constantemente evoluir tecnicamente e contribuir em projetos que unam **an
 - **Linguagens:** Python, SQL  
 - **Ferramentas de análise:** Power BI, Excel, Pandas, Matplotlib  
 - **Banco de dados:** MySQL, SQLite  
-- **Versionamento:** Git e GitHub  
+- **Versionamento:** Git e GitHub
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12c062d0-c662-40fe-bdb1-8329f285f037" />
+
 
 ---
 
@@ -26,8 +29,6 @@ Busco constantemente evoluir tecnicamente e contribuir em projetos que unam **an
 
 - 🔗 [Análise de defeitos na linha de produção de fio de cobre](https://github.com/MarcosAlmeida17/analise-defeitos-linha-producao-fio-cobre)  
   Projeto que aplica técnicas de análise de dados para identificar padrões e causas de defeitos em uma linha de produção industrial.
-
-*(adicione aqui outros projetos relevantes futuramente)*
 
 ---
 
