@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Marcos Almeida  
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) - (1/6)**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) - (1/6)**<br>
 💡 Apaixonado por **Ciência de Dados**, **Análise de Dados** e **Tecnologia**  
 📍 Itu/SP Brasil  
 
@@ -54,8 +54,8 @@ Atuar como **estagiário na área de Dados**, aplicando meus conhecimentos em **
 
 ## ⚙️ Estatísticas do GitHub
 
-![Marcos Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAlmeida17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlmeida17&layout=compact&theme=radical)
+![Marcos Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAlmeida17&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlmeida17&layout=compact&theme=radical)
+
 
 ---
 ✨ “Transformando dados em decisões e aprendizado em resultado.”
