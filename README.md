@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Marcos Almeida  
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) - (1/6)**
+
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/b6c278ef-836b-4a96-a2f9-1181000234a8" />
 
 💡 Apaixonado por **Ciência de Dados**, **Análise de Dados** e **Tecnologia**  
