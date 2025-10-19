@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
 💡 Apaixonado por **Ciência de Dados**, **Análise de Dados** e **Tecnologia**  
-📍 Brasil  
+📍 Itu/SP Brasil  
 
 ---
 
