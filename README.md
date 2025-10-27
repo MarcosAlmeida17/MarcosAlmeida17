@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o Marcos Almeida  
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) - (1/6)**<br>
-💡 Apaixonado por **Ciência de Dados**, **Análise de Dados** e **Tecnologia**  
 📍 Itu/SP Brasil  
 
 ---
@@ -36,6 +35,9 @@ Busco constantemente evoluir tecnicamente e contribuir em projetos que unam **an
 - 🔗 [Análise de defeitos na linha de produção de fio de cobre](https://github.com/MarcosAlmeida17/analise-defeitos-linha-producao-fio-cobre)  
   Projeto que aplica técnicas de análise de dados para identificar padrões e causas de defeitos em uma linha de produção industrial.
 
+- 🔗 [Urna para grêmio estudantil 2024](https://github.com/MarcosAlmeida17/Urna-gremio-estudantil-2024)   
+Projeto em Python e SQLite que automatiza o processo de votação escolar, garantindo registro único por aluno e segurança na contagem dos votos.
+
 ---
 
 ## 🎯 Objetivo
@@ -48,7 +50,6 @@ Atuar como **estagiário na área de Dados**, aplicando meus conhecimentos em **
 
 📧 **E-mail:** marcosalmeida7786@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/marcos-almeida-0190a2266/
-🐙 **GitHub:** [github.com/MarcosAlmeida17](https://github.com/MarcosAlmeida17)
 
 ---
 
