@@ -19,10 +19,7 @@ Busco constantemente evoluir tecnicamente e contribuir em projetos que unam **an
 - **Banco de dados:** MySQL, SQLite  
 - **Versionamento:** Git e GitHub
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/12c062d0-c662-40fe-bdb1-8329f285f037" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/10126394-a211-4859-9f5a-57d60f2a8ecd" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e6578aa2-033f-4e41-af2c-2f5a30739c64" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4cf5edea-076d-4f4b-b1d5-51fe84e36631" />
+
 
 
 
